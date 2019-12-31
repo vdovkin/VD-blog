@@ -2,8 +2,8 @@ title:              VD blog
 email:              a.a.vdovkin@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Vdovkin
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+baseurl:            "/VD-blog"
+url:                "https://vdovkin.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
